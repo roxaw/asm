@@ -37,3 +37,4 @@ There are three groups of experiments.
 * The scripts are located in the ~/asm/test_script/friendliness directory.
 * `plan.sh` is the script to check the friendliness property of CUBIC.
 * The Mininet experiment scripts and results are available [here](https://github.com/zmrui/tcp_cubic_fix).
+* We have reported three bugs and patches to Linux maintainers [here](https://lore.kernel.org/netdev/20240810223130.379146-1-mrzhang97@gmail.com/t/#u).
