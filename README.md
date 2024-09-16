@@ -9,8 +9,9 @@ Congestion control algorithms, such as RENO and CUBIC, are vital for the Interne
 
 ## Instructions
 
+* Our code and scripts are written and tested on Ubuntu Linux. 
 * Install [KLEE](https://klee-se.org/) to ~/klee_build
-* Download ASM code to ~/asm
+* Download the ASM code to ~/asm
 
 ## Experiments
 
@@ -35,3 +36,4 @@ There are three groups of experiments.
 
 * The scripts are located in the ~/asm/test_script/friendliness directory.
 * `plan.sh` is the script to check the friendliness property of CUBIC.
+* The Mininet experiment scripts and results are available [here](https://github.com/zmrui/tcp_cubic_fix).
